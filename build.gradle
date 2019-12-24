@@ -6,7 +6,7 @@ buildscript {
             'compileSdk'       : 28,
 
             'buildTools'       : '28.0.3',
-            'androidPlugin'    : '3.2.1',
+            'androidPlugin'    : '3.5.2',  //3.2.1
             'kotlin'           : '1.3.11',
             'gms'              : '3.1.0',
             'dagger'           : '2.12',
